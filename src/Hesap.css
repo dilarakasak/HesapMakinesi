@@ -1,0 +1,40 @@
+.arkaplan {
+    background-color: rgb(44, 44, 44);
+    width: 500px;
+    height: 630px;
+    margin-top: 10px;
+}
+
+.satir {
+    height: 100px;
+    display: flex;
+}
+
+.sonuc {
+    height: 150px;
+    display: flex;
+}
+
+.temizle {
+    height: 70px;
+    width: 490px;
+    background-color: rgb(82, 80, 80);
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.button {
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    flex: 1;
+    width: 90px;
+    margin: 2px;
+    border-color: black;
+    background-color: rgb(153, 150, 150);
+}
+
+.isaret {
+    background-color: rgb(255, 123, 0);
+}
