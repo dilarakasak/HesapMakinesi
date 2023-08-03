@@ -13,6 +13,10 @@
 .sonuc {
     height: 150px;
     display: flex;
+    font-size: 40px;
+    color: white;
+    align-items: flex-end;
+    justify-content: flex-end;
 }
 
 .temizle {
